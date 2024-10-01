@@ -5,9 +5,3 @@ The [Kithaabul Muqaddhas](https://dhivehimediagroup.com/) app downloads any audi
 
 If you would like to download all audio files, [download this **kmaudio** repository as a zip file](https://github.com/dhivehimedia/kmaudio/archive/master.zip), and then copy all MP3 files from the repository's **KithaabulMuqaddhasDownloads** folder to the **KithaabulMuqaddhasDownloads** folder on your mobile device.
 
-Also in this folder is the full version of the **R2L Calculator** app. It's a functional calculator with the buttons arranged in right-to-left order, but opens as the full Kithaabul Muqaddhas app if the user keys in the number **1965.07** and then presses the Equals button. The same app can be found in the [Google Play Store](https://play.google.com/store/apps/details?id=com.inkeysoftware.calc.div), but that version does not contain any audio or video, as it lacks the app permssions to stream them. Here is the app description from the Google Play Store:
-
->  Some people find it more logical for digits to be displayed in right-to-left order.
->  Some do so because they use a right-to-left writing system.
-> Others do so because as numbers get bigger, they grow to the left (tens column, hundreds column, etc), perhaps due to the origin of our numbering system being Arabic.
-> For whatever reason, if seeing numbers in right-to-left order feels better to you, this calculator is for you.
